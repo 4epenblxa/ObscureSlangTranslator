@@ -52,7 +52,7 @@ export const texts = {
         },
     },
     requestFeedback: "Удачное ли это определение?",
-    requestIDKFeedback: "Должно ли появиться опредение дя этого слова?",
+    requestIDKFeedback: "Должно ли появиться опредение для этого слова?",
     thx: "Спасибо!",
     changePromise: "Спасибо! Мы постараемся изменить это",
     binary: {
